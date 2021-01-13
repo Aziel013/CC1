@@ -3,7 +3,7 @@
 * Instructions: Write a java class that prompt the user to input starting and ending number.
 * The starting number should always be lesser than the ending number, if no, the program should prompt 
 * the user to try again. At the end of the program, you should ask the user if he / she wants to try again.
-* Use for loop. Use BufferedReader and Scanner class.
+* Use do-while loop. Use BufferedReader and Scanner class.
 */
 
 import java.util.Scanner; 
